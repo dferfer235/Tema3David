@@ -3,14 +3,10 @@ package EjEstructurasSelec;
 import java.util.Scanner;
 
 /**
- *
  * Reescribe el programa anterior utilizando estructuras if-else if.
  */
 public class Ej6 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);

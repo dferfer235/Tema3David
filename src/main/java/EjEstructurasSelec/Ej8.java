@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package EjEstructurasSelec;
 
 /**
@@ -14,7 +11,7 @@ public class Ej8 {
 
     public static void main(String args[]){
       char departamento = 'B';//Se crea una variable char para un departamento
-      //En este caso departamento tiene un valor de 'B'
+                              //En este caso departamento guarda un valor de 'B'
 
       switch(departamento)//switch que observa el valor de la variable departamento
           //En este caso su valor hace que solo se ejecute el case 'B'

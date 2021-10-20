@@ -24,7 +24,7 @@ public class Ej9 {
         }
         System.out.println(variable2);
         //Debido a la falta de break; en el case 3; y case 4; El programa pasa
-        //directamente al default y se le asigna un valor de 100 a variable2
+        //por todos hasta llegar al default y se le asigna un valor de 100 a variable2
         //Si ponemos un break en cada case, el switch se ejecuta sin problema
     }
 

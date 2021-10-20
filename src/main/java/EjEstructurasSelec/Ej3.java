@@ -6,9 +6,6 @@ package EjEstructurasSelec;
  */
 public class Ej3 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         boolean valor1 = true, valor2 = false;

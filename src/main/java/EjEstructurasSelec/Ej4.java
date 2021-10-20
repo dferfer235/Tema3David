@@ -15,7 +15,7 @@ public class Ej4 {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("escanear edad:");
+        System.out.println("escanear edad:");
 
         int edad = scanner.nextInt();
 
