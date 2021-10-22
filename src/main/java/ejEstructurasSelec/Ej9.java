@@ -1,4 +1,4 @@
-package EjEstructurasSelec;
+package ejEstructurasSelec;
 
 public class Ej9 {
 

@@ -1,4 +1,4 @@
-package EjEstructurasSelec;
+package ejEstructurasSelec;
 
 /**
  * Utilizando el operador ternario ?: de Java, implementa las siguientes

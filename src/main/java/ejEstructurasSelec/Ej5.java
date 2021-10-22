@@ -1,4 +1,4 @@
-package EjEstructurasSelec;
+package ejEstructurasSelec;
 
 import java.util.Scanner;
 

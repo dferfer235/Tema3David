@@ -1,4 +1,4 @@
-package EjEstructuraRepe;
+package ejEstructuraRepe;
 
 import java.util.Scanner;
 
